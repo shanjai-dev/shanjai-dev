@@ -1,7 +1,7 @@
 
 Hi there, I'm Shanjaikumaar 👋
 Welcome to my GitHub profile! I’m a passionate full-stack developer, cybersecurity enthusiast, and aspiring ethical hacker with a strong foundation in both software development and security research.
-\n
+
 🚀 About Me
   🎓 I’m currently pursuing a Bachelor of Engineering in Electronics and Communications
   👨‍💻 I specialize in MERN stack, React Native, PHP, JavaScript, Python, Django, and more.
