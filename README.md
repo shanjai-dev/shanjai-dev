@@ -34,5 +34,5 @@ Welcome to my GitHub profile! I’m a passionate full-stack developer, cybersecu
   Build more impactful open-source projects that solve real-world security and development problems.
   
 📫 Let’s Connect
-LinkedIn: https://www.linkedin.com/in/shanjaiofficial
-Portfolio: [shanjaikumaar.dev](https://shanjaiofficial.wuaze.com/)
+LinkedIn: [@shanjaiofficial](https://www.linkedin.com/in/shanjaiofficial)
+Portfolio: [shanjaiofficial.com](https://shanjaiofficial.wuaze.com/)
